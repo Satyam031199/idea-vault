@@ -1,3 +1,9 @@
+## Application URL - 
+https://ideavault-startup.vercel.app
+
+## Sanity studio - 
+https://ideavault-startup.vercel.app/studio/structure
+
 ## Env Variables
 AUTH_SECRET="ig7Vhjf3rQMjZhbtI+g2yKVjMWCmnSDaSt0xY3TMoEQ=" 
 
