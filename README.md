@@ -1,36 +1,16 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Env Variables
+AUTH_SECRET="ig7Vhjf3rQMjZhbtI+g2yKVjMWCmnSDaSt0xY3TMoEQ=" 
 
-## Getting Started
+AUTH_GITHUB_ID=Ov23ligkqCkEzd4c3PXy
 
-First, run the development server:
+AUTH_GITHUB_SECRET=805acf96467a04d621d404e156985e5488b7ba99
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+NEXT_PUBLIC_SANITY_PROJECT_ID="qekymps6"
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+NEXT_PUBLIC_SANITY_DATASET="production"
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+NEXT_PUBLIC_SANITY_API_VERSION="vX"
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+SANITY_WRITE_TOKEN=sknlCpvzoz8fwzW8YapVmDCSfvQa5BxwyPb0JMq8pCd2W93M0NqVIJjIlOEAAeCybMWn2OaFOnkvmcLssdiaH6N38EHpIECtC4erv8NxAbCiaGHcp5aEE3NcCGN3CQpR4ltKQliqhE0070TwcrfTC62r7qz6jrEYHqtaT7w62WCiyGi8nClG
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+SENTRY_AUTH_TOKEN="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"
